@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/my-recipe-project/static/js/main.3dd619ca.js",
+    "index.html": "/my-recipe-project/index.html",
+    "main.3dd619ca.js.map": "/my-recipe-project/static/js/main.3dd619ca.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3dd619ca.js"
+  ]
+}
